@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to QuantumHacker Pages 測試中......
 
-You can use the [editor on GitHub](https://github.com/QuantumNeoChen/QuantumNeoChen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+你可以使用這個 [QuantumHacker HomePage](https://neochentwhia.wixsite.com/agoodai)網址，看見我的相關諮詢介紹。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你已能從此BLOG吸收量子電腦相關新知，歡迎您~~
 
 ### Markdown
 
